@@ -1,6 +1,3 @@
-
-![Neuraprompt AI](https://www.instagram.com/official.alysiumcorpstudios?igsh=MTdpODdtenJlc2Zkeg==)
-
 Neuraprompt AI 
 ==========
 
