@@ -1,25 +1,15 @@
 
-![AndroidIDE](https://github.com/AndroidIDEOfficial/.github/raw/main/profile/header_dark.png#gh-dark-mode-only)
-![AndroidIDE](https://github.com/AndroidIDEOfficial/.github/raw/main/profile/header_light.png#gh-light-mode-only)
+![Neuraprompt AI](https://github.com/AndroidIDEOfficial/.github/raw/main/profile/header_dark.png#gh-dark-mode-only)
+![Neuraprompt AI](https://github.com/AndroidIDEOfficial/.github/raw/main/profile/header_light.png#gh-light-mode-only)
 
-AndroidIDE
+Neuraprompt AI 
 ==========
 
-Welcome to AndroidIDE!
+Welcome to Official Toxic Dee Modder Acc!
 
-AndroidIDE is an Integrated Development Environment (IDE) for Android devices to develop Android applications.
-
-### Repository info
-- [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - The main application.
-- [androidide-tools](https://github.com/AndroidIDEOfficial/androidide-tools) - Build tools for AndroidIDE (Android SDK).
-- [termux-packages](https://github.com/AndroidIDEOfficial/termux-packages) - Fork of [termux-packages](https://github.com/termux/termux-packages) for AndroidIDE.
-- [nb-javac-android](https://github.com/AndroidIDEOfficial/nb-javac-android) - The Java Compiler used in AndroidIDE.
-- [android-tree-sitter](https://github.com/AndroidIDEOfficial/android-tree-sitter) - Android Java Bindings for the tree-sitter library. Used in AndroidIDE for syntax highlighting.
-- [tree-sitter-java](https://github.com/AndroidIDEOfficial/tree-sitter-java) - Java grammar for tree-sitter.
-- [tree-sitter-xml](https://github.com/AndroidIDEOfficial/tree-sitter-xml) - XML grammar for tree-sitter.
-
+Andile Mtolo Known as Toxic Dee Modder is the founder/CEO of Alysium Corp Studios ZA inc and Founder of Neuraprompt ai. Born and raised in South africa 🇿🇦.
 
 ### Important links
-- [Website](https://androidide.com)
-- [Telegram Channel](https://t.me/AndroidIDEOfficial)
-- [Telegram Discussions](https://t.me/androidide_discussions)
+- [Website](https://neura-prompt-ai.vercel.app)
+- [Telegram Channel](https://t.me/alysium_updates)
+- [Instagram](https://www.instagram.com/iam_realtoxicdeemodder?igsh=MTk0MnltY2RrcjF0bw==)
